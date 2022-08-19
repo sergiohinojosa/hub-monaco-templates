@@ -1,0 +1,4 @@
+config:
+- AutoUpload: AutoUpload.json
+AutoUpload:
+- name: AutoUpload
