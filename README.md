@@ -1,0 +1,1 @@
+# hub-monaco-templates
