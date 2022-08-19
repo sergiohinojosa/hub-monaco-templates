@@ -1,0 +1,12 @@
+# No DS Store files
+.DS_Store
+
+# NO VS Code Files
+**/.vscode/**
+
+# No temp folder nor its files
+/tmp/**
+
+# No mine files
+**-mine.**
+**_.**
