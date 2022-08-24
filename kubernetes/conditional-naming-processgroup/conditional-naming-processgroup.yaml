@@ -1,0 +1,4 @@
+config:
+- k8spgnamingconvention: k8spgnamingconvention.json
+k8spgnamingconvention:
+- name: K8s PG Naming Convention

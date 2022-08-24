@@ -1,9 +1,0 @@
-config:
-- ai-ops: ai-ops.json
-- metric-expressions: metric-expressions.json
-ai-ops:
-- name: "Simplify Kubernetes Complexity with Advanced AI Ops"
-- owner: "Dynatrace"
-metric-expressions:
-- name: "Kubernetes Metric Expressions"
-- owner: "Dynatrace"

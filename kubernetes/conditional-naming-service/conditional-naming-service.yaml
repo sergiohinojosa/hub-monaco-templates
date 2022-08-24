@@ -1,0 +1,4 @@
+config:
+- k8sserviceconventionnaming: k8sserviceconventionnaming.json
+k8sserviceconventionnaming:
+- name: K8s Service Naming Convention

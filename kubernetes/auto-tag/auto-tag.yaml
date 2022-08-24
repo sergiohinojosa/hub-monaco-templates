@@ -1,0 +1,4 @@
+config:
+- Kubernetesnamespace: Kubernetesnamespace.json
+Kubernetesnamespace:
+- name: '[Kubernetes]namespace'

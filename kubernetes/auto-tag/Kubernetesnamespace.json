@@ -1,0 +1,31 @@
+{
+ "description": "Namespace Tagging for K8s Traces",
+ "entitySelectorBasedRules": [],
+ "name": "{{.name}}",
+ "rules": [
+  {
+   "conditions": [
+    {
+     "comparisonInfo": {
+      "caseSensitive": null,
+      "negate": false,
+      "operator": "EXISTS",
+      "type": "STRING",
+      "value": null
+     },
+     "key": {
+      "attribute": "CLOUD_APPLICATION_NAMESPACE_NAME",
+      "type": "STATIC"
+     }
+    }
+   ],
+   "enabled": true,
+   "normalization": "LEAVE_TEXT_AS_IS",
+   "propagationTypes": [
+    "PROCESS_GROUP_TO_SERVICE"
+   ],
+   "type": "PROCESS_GROUP",
+   "valueFormat": "{ProcessGroup:KubernetesNamespace}"
+  }
+ ]
+}

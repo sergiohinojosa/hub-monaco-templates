@@ -1,0 +1,40 @@
+
+config:
+- K8sOverview: K8sOverview.json
+- K8sClusterUtilization: K8sClusterUtilization.json
+- K8sContainerUsage: K8sContainerUsage.json
+- K8sResourceQuotas: K8sResourceQuotas.json
+- K8sUserExperience: K8sUserExperience.json
+- K8sPerformanceEngineering: K8sPerformanceEngineering.json
+- KubernetesMetricExpressions: KubernetesMetricExpressions.json
+- SimplifyKubernetes: SimplifyKubernetes.json
+
+K8sOverview:
+- name: "\U0001F578 Kubernetes Overview"
+- owner: "Dynatrace-Success-HUB"
+- K8sClusterUtilization: /dashboard-v2/K8sClusterUtilization.id
+- K8sResourceQuotas: /dashboard-v2/K8sResourceQuotas.id
+- K8sContainerUsage: /dashboard-v2/K8sContainerUsage.id
+- K8sPerformanceEngineering: /dashboard-v2/K8sPerformanceEngineering.id
+- K8sUserExperience: /dashboard-v2/K8sUserExperience.id
+K8sClusterUtilization: 
+- name: "\U0001F578 Kubernetes Overview - Cluster Utilization"
+- owner: "Dynatrace-Success-HUB"
+K8sContainerUsage:
+- name: "\U0001F578 Kubernetes Overview - Container usage & health"
+- owner: "Dynatrace-Success-HUB"
+K8sResourceQuotas:
+- name: "\U0001F578 Kubernetes Overview - Resource Quotas"
+- owner: "Dynatrace-Success-HUB"
+K8sUserExperience: 
+- name: "\U0001F578 Kubernetes Overview - User Experience"
+- owner: "Dynatrace-Success-HUB"
+K8sPerformanceEngineering: 
+- name: "\U0001F578 Kubernetes Overview - Performance Enginnering"
+- owner: "Dynatrace-Success-HUB"
+KubernetesMetricExpressions:
+- name: "Kubernetes Metric Expressions"
+- owner: "Dynatrace-Success-HUB"
+SimplifyKubernetes: 
+- name: "Simplify Kubernetes Complexity with Advanced AI Ops"
+- owner: "Dynatrace-Success-HUB"
