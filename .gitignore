@@ -1,6 +1,8 @@
 # No DS Store files
 .DS_Store
 
+**/.logs/**
+
 # NO VS Code Files
 **/.vscode/**
 
