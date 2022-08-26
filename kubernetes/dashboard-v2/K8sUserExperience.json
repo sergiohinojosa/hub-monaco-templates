@@ -767,57 +767,6 @@
         {
             "bounds": {
                 "height": 38,
-                "left": 608,
-                "top": 342,
-                "width": 304
-            },
-            "configured": true,
-            "markdown": "### [Container usage \u0026 health](#dashboard;id=bbbbbbbb-a001-a008-0002-000000000001)\n",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
-                "left": 0,
-                "top": 342,
-                "width": 304
-            },
-            "configured": true,
-            "markdown": "### [Cluster utilization](#dashboard;id=bbbbbbbb-a001-a008-0001-000000000001)\n",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
-                "left": 912,
-                "top": 342,
-                "width": 304
-            },
-            "configured": true,
-            "markdown": "### [Performance Engineering](#dashboard;id=bbbbbbbb-a001-a008-0004-000000000001)\n",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
                 "left": 0,
                 "top": 380,
                 "width": 456
@@ -835,63 +784,12 @@
         {
             "bounds": {
                 "height": 38,
-                "left": 1596,
-                "top": 0,
-                "width": 152
-            },
-            "configured": true,
-            "markdown": "##[⬅︎](#dashboard;id=bbbbbbbb-a001-a008-0000-000000000001)\n",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
                 "left": 760,
                 "top": 380,
                 "width": 418
             },
             "configured": true,
             "markdown": "[Happy users 😄](#usersearchoverview;filtrfilterUXScore=3) [Tolerated users 😏](#usersearchoverview;filtrfilterUXScore=2) [Frustated Users 😡](#usersearchoverview;filtrfilterUXScore=1) ",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
-                "left": 304,
-                "top": 342,
-                "width": 304
-            },
-            "configured": true,
-            "markdown": "### [Resource Quotas](#dashboard;id=bbbbbbbb-a001-a008-0003-000000000001;)\n",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
-                "left": 1216,
-                "top": 342,
-                "width": 304
-            },
-            "configured": true,
-            "markdown": "### [User Experience](#dashboard;id=bbbbbbbb-a001-a008-0005-000000000001)\n",
             "name": "Markdown",
             "nameSize": null,
             "tileFilter": {
@@ -1139,23 +1037,6 @@
             },
             "configured": true,
             "markdown": "User engagement over time",
-            "name": "Markdown",
-            "nameSize": null,
-            "tileFilter": {
-                "managementZone": null,
-                "timeframe": null
-            },
-            "tileType": "MARKDOWN"
-        },
-        {
-            "bounds": {
-                "height": 38,
-                "left": 1748,
-                "top": 0,
-                "width": 38
-            },
-            "configured": true,
-            "markdown": "## [⇦](#dashboard;id=bbbbbbbb-a001-a008-0000-000000000001)\n![BackButton]()",
             "name": "Markdown",
             "nameSize": null,
             "tileFilter": {
