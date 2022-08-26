@@ -1,5 +1,0 @@
-config:
-- performance-overview: performance-overview.json
-performance-overview:
-- name: "Why Devs 💜 Dynatrace - Performance Overview"
-- owner: "Dynatrace"
